@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "giveAway",
-    "slug": "giveAway",
+    "name": "imageShare",
+    "slug": "imageShare",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
